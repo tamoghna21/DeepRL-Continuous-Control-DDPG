@@ -13,7 +13,10 @@ The goal is to create and train an Agent to solve the [Reacher](https://github.c
 ### Environment Details
 
 The envoronment is built using [Unity Machine Learning Agents](https://github.com/Unity-Technologies/ml-agents) (**ML-Agents**), which is an open-source Unity plugin that enables games and simulations to serve as environments for training intelligent agents. 
-The project environment, provided by Udacity is similar to, but not identical to the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. The Udacity provided environment has been downloaded from [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX. This environment has 20 identical agents, each with its own copy of the environment.
+The project environment, provided by Udacity is similar to, but not identical to the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. The Udacity provided environment has been downloaded from [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX. 
+
+#### Distributed Training
+The [Reacher environment](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX provided by Udacity and used in this project has 20 identical agents, each with its own copy of the environment.
 
 #### State and Action spaces
 
