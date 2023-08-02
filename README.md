@@ -2,6 +2,8 @@
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
 
+[image2]: score_plot.png "Score Plot"
+
 # Project 2: Continuous Control - Reacher Environment
 
 This project is part of the Udacity [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). This project solves the Reacher environmet in Mac OSX. 
@@ -57,12 +59,12 @@ $ source activate drlnd
 $ jupyter notebook
 ```
 
-Follow the instructions in `Continious_control-DDPG.ipynb` to get started with training your own agent!  
+Follow the instructions in `Continious_Control-Reacher.ipynb` to get started with training your own agent!  
 
-The task of solving the Reacher environment with twenty agents was completed using DDPG algorithm.
+The task of solving the Reacher environment with twenty agents was completed using DDPG algorithm with modifications.
 
 ```
-Environment solved in 233 episodes!	Average Score: 30.00
+Environment solved in 182 episodes!	Average Score: 30.05
 ```
 ![Score Plot][image2]
 
