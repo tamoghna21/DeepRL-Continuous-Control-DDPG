@@ -33,6 +33,41 @@ For solving this version of the environment with twenty identical agents, the ag
 
 The environment is considered solved, when the average (over 100 episodes) of those average scores is at least +30. In the case of the plot above, the environment was solved at episode 63, since the average of the average scores from episodes 64 to 163 (inclusive) was greater than +30.
 
+### Getting Started
+
+1. Follow the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies) to setup the python environment. These instructions can be found in README.md at the root of the repository.
+2. Download this repository (only for Mac OSX), it has the environment included. So for Mac OSX, step 3 can be skipped.
+3. Download the Udacity provided environment (Twenty Agents version) from one of the links below (For Mac OSX, this step can be skipped as the environment is already included in this repo).  Select the environment corresponding to the required operating system:
+    - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+    - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+    - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
+    - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
+
+4. Place the file in the repository (downloaded in step 2) and unzip (or decompress) the file.
+
+
+### Instructions
+
+The environment just set up has the files and tools to allow the training of the agent.
+
+Start the Jupyter Notebook server by running the commands below (in Mac OSX). A new browser tab will open with a list of the files in the current folder.
+
+```
+$ source activate drlnd
+$ jupyter notebook
+```
+
+Follow the instructions in `Continious_control-DDPG.ipynb` to get started with training your own agent!  
+
+The task of solving the Reacher environment with twenty agents was completed using DDPG algorithm.
+
+```
+Environment solved in 233 episodes!	Average Score: 30.00
+```
+![Score Plot][image2]
+
+For more details see the 
+
 
 
 
