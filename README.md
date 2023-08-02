@@ -68,7 +68,7 @@ Environment solved in 182 episodes!	Average Score: 30.05
 ```
 ![Score Plot][image2]
 
-For more details see the 
+For more details see the [Report](https://github.com/tamoghna21/DeepRL-Continuous-Control-DDPG/blob/main/Report.pdf)
 
 
 
