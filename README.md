@@ -18,7 +18,7 @@ The envoronment is built using [Unity Machine Learning Agents](https://github.co
 The project environment, provided by Udacity is similar to, but not identical to the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. The Udacity provided environment has been downloaded from [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX. 
 
 #### Distributed Training
-The [Reacher environment](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX provided by Udacity and used in this project has 20 identical agents, each with its own copy of the environment.
+The [Reacher environment](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip) for Mac OSX provided by Udacity used in this project has 20 identical agents, each with its own copy of the environment.
 
 #### State and Action spaces
 
@@ -45,7 +45,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
-4. Place the file in the repository (downloaded in step 2) and unzip (or decompress) the file.
+4. Place the file in the repository folder (downloaded in step 2) and unzip (or decompress) the file.
 
 
 ### Instructions
