@@ -4,7 +4,7 @@
 
 [image2]: score_plot.png "Score Plot"
 
-# Project 2: Continuous Control - Reacher Environment
+# Continuous Control - Reacher Environment (Project 2 - Udacity Deep RL)
 
 This project is part of the Udacity [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). This project solves the Reacher environmet in Mac OSX. 
 
