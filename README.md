@@ -8,7 +8,7 @@
 
 This project is part of the Udacity [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). This project solves the Reacher environmet in Mac OSX. 
 
-The goal is to create and train an Agent to solve the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.  
+The goal is to create and train an Agent to solve the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.  The Action space is continuous in this environment.
 
 ![Trained Agent][image1]
 
